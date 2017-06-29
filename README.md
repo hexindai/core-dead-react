@@ -3,7 +3,7 @@
 To get started, clone this repo as whatever you want to name your app:
 
 ```
-git clone https://github.com/bencompton/framework7-react-app-template/ my-app
+git clone https://github.com/hexindai/core-dead-react.git
 ```
 
 Running the app:
